@@ -4,6 +4,11 @@ Um xilofone virtual interativo criado com HTML, CSS e JavaScript, onde você pod
 Projeto desenvolvido como prática de manipulação da DOM e criação de aplicações interativas no navegador.
 
 
+# 🎮 Demonstração
+
+https://victorrf.github.io/xylaphone-virtual-js/
+
+
 # 🚀 Funcionalidades
 
 - 🎹 Tocar notas com o teclado

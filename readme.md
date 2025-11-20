@@ -6,7 +6,7 @@ Projeto desenvolvido como prática de manipulação da DOM e criação de aplica
 
 # 🎮 Demonstração
 
-https://victorrf.github.io/xylaphone-virtual-js/
+https://victorrf.github.io/xylophone-virtual-js/
 
 
 # 🚀 Funcionalidades
